@@ -1,6 +1,6 @@
 import React from "react";
 import img1 from "../assets/images/bgimg.png"
-import img2 from "../assets/images/Mac.jpg"
+import img2 from "../assets/images/mac.jpg"
 import img3 from "../assets/images/ipad.jpeg"
 
 function Hero1(){
